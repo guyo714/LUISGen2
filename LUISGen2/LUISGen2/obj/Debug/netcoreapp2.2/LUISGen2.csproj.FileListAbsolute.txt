@@ -1,0 +1,11 @@
+/Users/E670206/Projects/LUISGen2/LUISGen2/bin/Debug/netcoreapp2.2/LUISGen2.deps.json
+/Users/E670206/Projects/LUISGen2/LUISGen2/bin/Debug/netcoreapp2.2/LUISGen2.runtimeconfig.json
+/Users/E670206/Projects/LUISGen2/LUISGen2/bin/Debug/netcoreapp2.2/LUISGen2.runtimeconfig.dev.json
+/Users/E670206/Projects/LUISGen2/LUISGen2/bin/Debug/netcoreapp2.2/LUISGen2.dll
+/Users/E670206/Projects/LUISGen2/LUISGen2/bin/Debug/netcoreapp2.2/LUISGen2.pdb
+/Users/E670206/Projects/LUISGen2/LUISGen2/obj/Debug/netcoreapp2.2/LUISGen2.AssemblyInfoInputs.cache
+/Users/E670206/Projects/LUISGen2/LUISGen2/obj/Debug/netcoreapp2.2/LUISGen2.AssemblyInfo.cs
+/Users/E670206/Projects/LUISGen2/LUISGen2/obj/Debug/netcoreapp2.2/LUISGen2.csproj.CoreCompileInputs.cache
+/Users/E670206/Projects/LUISGen2/LUISGen2/obj/Debug/netcoreapp2.2/LUISGen2.dll
+/Users/E670206/Projects/LUISGen2/LUISGen2/obj/Debug/netcoreapp2.2/LUISGen2.pdb
+/Users/E670206/Projects/LUISGen2/LUISGen2/obj/Debug/netcoreapp2.2/LUISGen2.genruntimeconfig.cache
