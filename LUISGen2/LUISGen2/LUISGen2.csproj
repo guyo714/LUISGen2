@@ -13,9 +13,4 @@
   <ItemGroup>
     <Compile Remove="RSOChatbotDevLuisV2.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Compile Include="..\..\..\Documents\Chatbot\LuisJson\RSOChatbotDevLuisV2.cs">
-      <Link>RSOChatbotDevLuisV2.cs</Link>
-    </Compile>
-  </ItemGroup>
 </Project>
